@@ -1,4 +1,7 @@
 # **Computer Vision RPS**
+Computer vision RPS is a classic hand game in which computer randomly chooses one form from a list and player forms one of the three shapes with an outstretched hand using webcam. These shapes are "rock", "paper, "scissors". 
+![RPS_game](RPS_images/RPS_game.JPG)
+Rock beats scissors, scissors beat paper, and paper beats rock.
 ## **Milestone 2**
 - **Task 1:**
     -  In this task, craete an image project model with four different classes: Rock, Paper, Scissors and Nothing using tool *Teachable machine*.
